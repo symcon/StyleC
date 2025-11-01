@@ -51,7 +51,7 @@ ColumnLimit: 5000 #0 does not work properly. It will break constructor initializ
 CompactNamespaces: false
 ConstructorInitializerAllOnOneLineOrOnePerLine: true
 Cpp11BracedListStyle: true
-DeriveLineEnding: false
+DeriveLineEnding: true
 DerivePointerAlignment: false
 FixNamespaceComments: false
 IncludeBlocks: Regroup
